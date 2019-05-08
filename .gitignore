@@ -1,6 +1,6 @@
 *
 
-!.gitignore
 !*.ipynb
+!*.png
 !*.py
-!README.md
+!.gitignore
