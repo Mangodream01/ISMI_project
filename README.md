@@ -2,8 +2,9 @@
 
 3D UNet  for segmentation of the liver and liver tumors on CT scans of the thorax.
 
-*Start script:*
+**Start script:**
 
+```console
 #!/bin/bash
 #SBATCH -t 5-00:00:00
 #SBATCH -N 1 -c 16
@@ -19,3 +20,4 @@ pip install ipywidgets --user
 
 jupyter nbextension install --py widgetsnbextension --user
 jupyter nbextension enable --py widgetsnbextension --py
+```
