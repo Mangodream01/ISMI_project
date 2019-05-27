@@ -2,7 +2,7 @@
 
 3D UNet  for segmentation of the liver and liver tumors on CT scans of the thorax.
 
-*Start script:*
+**Start script:**
 
 ```console
 #!/bin/bash
