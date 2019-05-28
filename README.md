@@ -19,5 +19,5 @@ pip install h5py --user
 pip install ipywidgets --user
 
 jupyter nbextension install --py widgetsnbextension --user
-jupyter nbextension enable --py widgetsnbextension --py
+jupyter nbextension enable --py widgetsnbextension --user
 ```
